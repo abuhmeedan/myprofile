@@ -1,0 +1,100 @@
+[02-May-2018 19:16:23 UTC] PHP Parse error:  syntax error, unexpected '".&response="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:18:02 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:18:54 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:21:07 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:21:07 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 19:21:54 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:21:54 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 12:22:10 America/Phoenix] PHP Notice:  Undefined index: OS in /home/abuhmeedan/public_html/stage/mail_test.php on line 3525
+[02-May-2018 12:23:01 America/Phoenix] PHP Notice:  Undefined index: OS in /home/abuhmeedan/public_html/stage/mail_test.php on line 3525
+[02-May-2018 19:27:08 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:27:08 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 12:28:25 America/Phoenix] PHP Notice:  Undefined index: OS in /home/abuhmeedan/public_html/stage/mail_test.php on line 3525
+[02-May-2018 19:33:24 UTC] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/abuhmeedan/public_html/stage/waleedForm.php on line 30
+[02-May-2018 19:33:55 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:33:55 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:33:55 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 32
+[02-May-2018 19:35:21 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:35:21 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:35:21 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 32
+[02-May-2018 19:36:34 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:36:34 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:36:35 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 32
+[02-May-2018 19:39:29 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:39:29 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:39:30 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 32
+[02-May-2018 19:42:50 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:42:50 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:42:50 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:42:51 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 32
+[02-May-2018 19:43:33 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:43:33 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:43:33 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:43:38 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 32
+[02-May-2018 19:46:26 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:46:26 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:46:26 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:46:27 UTC] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:46:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:46:58 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:46:58 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:46:58 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:46:59 UTC] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:46:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:47:17 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:47:17 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:47:17 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:47:17 UTC] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:47:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:48:00 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
+[02-May-2018 19:48:00 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 7
+[02-May-2018 19:48:00 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:48:00 UTC] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:48:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/abuhmeedan/public_html/stage/waleedForm.php on line 15
+[02-May-2018 19:48:49 UTC] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home/abuhmeedan/public_html/stage/waleedForm.php on line 2
+[02-May-2018 19:48:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/abuhmeedan/public_html/stage/waleedForm.php on line 2
+[02-May-2018 19:49:13 UTC] PHP Warning:  require_once(recaptchalib.php): failed to open stream: No such file or directory in /home/abuhmeedan/public_html/stage/waleedForm.php on line 2
+[02-May-2018 19:49:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'recaptchalib.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/abuhmeedan/public_html/stage/waleedForm.php on line 2
+[02-May-2018 19:51:48 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 19:51:48 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:51:48 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 9
+[02-May-2018 19:51:48 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 35
+[02-May-2018 19:52:42 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 19:52:42 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:52:42 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 9
+[02-May-2018 19:52:42 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 35
+[02-May-2018 19:55:27 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 19:55:27 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:55:27 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 9
+[02-May-2018 19:55:28 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 35
+[02-May-2018 19:56:36 UTC] PHP Notice:  Undefined index: recaptcha_response_field in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 19:56:36 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:56:36 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 9
+[02-May-2018 19:56:37 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 35
+[02-May-2018 19:57:44 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/abuhmeedan/public_html/stage/waleedForm.php on line 5
+[02-May-2018 19:57:44 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 19:57:44 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 9
+[02-May-2018 19:57:45 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 35
+[02-May-2018 20:00:17 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 8
+[02-May-2018 20:00:17 UTC] PHP Notice:  Undefined variable: captcha in /home/abuhmeedan/public_html/stage/waleedForm.php on line 9
+[02-May-2018 20:00:17 UTC] PHP Notice:  Undefined variable: headers in /home/abuhmeedan/public_html/stage/waleedForm.php on line 35
+[02-May-2018 20:29:28 UTC] PHP Notice:  Undefined index: sendmethod in /home/abuhmeedan/public_html/stage/waleedForm.php on line 6755
+[02-May-2018 20:29:28 UTC] PHP Notice:  Undefined index: sendmethod in /home/abuhmeedan/public_html/stage/waleedForm.php on line 6769
+[02-May-2018 20:29:28 UTC] PHP Notice:  Undefined index: sendmethod in /home/abuhmeedan/public_html/stage/waleedForm.php on line 6823
+[02-May-2018 21:44:01 UTC] PHP Notice:  Undefined index: HTTP_Via in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:44:01 UTC] PHP Notice:  Undefined index: HTTP_Via in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:44:01 UTC] PHP Notice:  Undefined index: HTTP_Via in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:44:01 UTC] PHP Notice:  Undefined index: HTTP_Via in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:44:32 UTC] PHP Notice:  Undefined index: HTTP_Via in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:46:00 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:46:25 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:47:40 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:53:56 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[02-May-2018 21:54:55 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[03-May-2018 05:19:17 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[04-May-2018 06:59:26 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[04-May-2018 06:59:28 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[04-May-2018 07:07:14 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[04-May-2018 07:07:14 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[04-May-2018 07:07:14 UTC] PHP Notice:  Undefined index: HTTP-VIA in /home/abuhmeedan/public_html/stage/index.php on line 7
+[04-May-2018 07:30:27 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/abuhmeedan/public_html/stage/waleedForm.php on line 4
